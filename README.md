@@ -33,7 +33,7 @@ The dataset comprises various metrics related to online retail transactions. The
 
 ## 📁 File Descriptions
 - 📓 **`Customer_Segmentation_and_Recommendation_System.ipynb`**: Jupyter notebook containing data exploration, visualization, modeling, and evaluation code.
-- 📁 **`Online_Retail.csv`**: CSV file containing the online retail dataset.
+- 📁 **`data 2.csv`**: CSV file containing the online retail dataset.
 - 📘 **`README.md`**: This file, providing an overview of the project.
 
 ## 🚀 Instructions for Local Execution
